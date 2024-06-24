@@ -1,0 +1,19 @@
+.loans-container {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.loans-title {
+    color: #880e4f;
+    margin-bottom: 2rem;
+}
+
+.book-wrapper {
+    text-align: center;
+}
+
+.book-wrapper button {
+    margin-top: 1rem;
+    background-color: #ff69b4;
+    color: white;
+}

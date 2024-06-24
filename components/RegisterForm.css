@@ -1,0 +1,34 @@
+.register-container {
+    background-color: #FFFFFF;
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.library-logo {
+    width: 150px; /* Adjust size as needed */
+    margin: 0 auto 1rem; /* Center and add margin below the logo */
+    display: block; /* Ensure logo is centered */
+}
+
+.register-title {
+    margin-bottom: 1rem;
+    color: #EF498F;
+}
+
+.register-submit-button {
+    background-color: #EF498F;
+    color: #FFFFFF;
+    border-radius: 20px;
+    margin-top: 1rem;
+}
+
+.login-link {
+    margin-top: 1rem;
+    color: #EF498F;
+}
+
+.clickable-text {
+    cursor: pointer;
+    text-decoration: underline;
+}

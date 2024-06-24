@@ -1,0 +1,38 @@
+.login-container {
+    background-color: #FFFFFF;
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.library-logo {
+    margin: 0 auto 1rem;
+    display: block;
+}
+
+.login-title {
+    margin-bottom: 1rem;
+    color: #EF498F;
+}
+
+.login-subtitle {
+    margin-bottom: 2rem;
+    color: #FF7BB3;
+}
+
+.login-submit-button, .magic-button {
+    background-color: #EF498F;
+    color: #FFFFFF;
+    border-radius: 20px;
+    margin-top: 1rem;
+}
+
+.register-link {
+    margin-top: 1rem;
+    color: #EF498F;
+}
+
+.clickable-text {
+    cursor: pointer;
+    text-decoration: underline;
+}
