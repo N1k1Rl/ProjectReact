@@ -6,9 +6,9 @@
 }
 
 .library-logo {
-    width: 150px; /* Adjust size as needed */
-    margin: 0 auto 1rem; /* Center and add margin below the logo */
-    display: block; /* Ensure logo is centered */
+    width: 150px; 
+    margin: 0 auto 1rem; 
+    display: block; 
 }
 
 .register-title {
